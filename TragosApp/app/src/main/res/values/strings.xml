@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TragosApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_detalles_trago">FRAGMENT DETALLES TRAGO</string>
+    <string name="fragment_lista_trago">FRAGMENT LISTA TRAGO</string>
+</resources>
